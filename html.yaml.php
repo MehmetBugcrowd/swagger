@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: html injection <img src=https://cdn.acunetix.com/wp-content/uploads/2020/01/11111323/html-injection-910x478.png/>
+  description: html injection <img src=https://n00bsecurityblog.files.wordpress.com/2017/09/url_1.png?w=695&h=450 />
 paths:
   /:
     get:
