@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: html injection <img src=https://n00bsecurityblog.files.wordpress.com/2017/09/url_1.png?w=695&h=450 />
+  description: html injection <img src=https://github.com/MehmetBugcrowd/swagger/blob/main/sample%20image.png?raw=true/>
 paths:
   /:
     get:
