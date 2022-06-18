@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: html inject <img src=https://pbs.twimg.com/media/E_eRpEyVgAQRSR-?format=jpg&name=large/>
+  description: html inject <img src=https://geekflare.com/wp-content/uploads/2020/02/Code-injection-e1580817731194.jpg>
 paths:
   /:
     get:
