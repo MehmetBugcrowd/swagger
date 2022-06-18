@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: html inject <img src=image.png/>
+  description: html inject <img src=image.png>
 paths:
   /:
     get:
