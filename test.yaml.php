@@ -6,7 +6,7 @@ securityDefinitions:
 info:
   version: "0.0.1"
   title: Example Title
-  description: html inject <img src=https://mert.ninja/imgs/pp4.jpeg>
+  description: html inject <img src=https://pbs.twimg.com/media/E_eRpEyVgAQRSR-?format=jpg&name=large>
 paths:
   /:
     get:
